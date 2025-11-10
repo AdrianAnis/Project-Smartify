@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
         appBar: AppBar(
           title: const Center(
             child: Text(
-              'Quizy',
+              'Quizyy',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
