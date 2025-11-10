@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339651596321",
+    "project_id": "smartify-firebase-1b581",
+    "storage_bucket": "smartify-firebase-1b581.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339651596321:android:0fe39087c9584114769360",
+        "android_client_info": {
+          "package_name": "com.example.smartify_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVgRAB0XymmHVRXrL2GrUYu8tFYUPMoxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
